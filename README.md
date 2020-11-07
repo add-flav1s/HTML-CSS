@@ -7,7 +7,7 @@
 </h4>
 
 <h1 align="center">
-  <img alt="LandingPage" title="THIRTEEN" src="../assets/landing-page.png"/>
+  <img alt="LandingPage" title="THIRTEEN" src="./assets/landing-page.png"/>
 </h1>
 
 - [HTML]
